@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Jingyuan Wen 温静远"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+description              : "a graduate student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI)."
+repository               : "https://pineapplewill.github.io/"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : G-SWFCX99KQZ
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Jingyuan Wen 温静远"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  bio              : "RUC GSAI"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "jingyuan_wen@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "pineapplewill"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : "https://www.linkedin.com/in/jingyuan-wen-262165274/"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
