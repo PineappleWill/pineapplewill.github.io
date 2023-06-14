@@ -9,7 +9,7 @@
 title                    : "Jingyuan Wen 温静远"
 description              : "a graduate student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI)."
 repository               : "https://pineapplewill.github.io/"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : G-SWFCX99KQZ
