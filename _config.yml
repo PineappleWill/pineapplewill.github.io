@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingyuan Wen 温静远"
-description              : "a graduate student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI)."
+title                    : "温静远"
+description              : "A graduate student from RUC. Focusing on multi-modal and AIGC."
 repository               : "https://pineapplewill.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Jingyuan Wen 温静远"
   avatar           : "images/profile.jpg"
-  bio              : "RUC GSAI"
+  bio              : "Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI)."
   location         : "Beijing"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jingyuan-wen-262165274/"
+  linkedin         : "jingyuan-wen"
   dblp             : 
   orcid            : 
   pinterest        :
