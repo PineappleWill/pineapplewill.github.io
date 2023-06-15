@@ -1,3 +1,3 @@
-Hi😊~I am currently a third-year graduate student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI). I major in artificial intelligence and advised by Prof. Zhiwu Lu<a href=' https://scholar.google.com.hk/citations?hl=zh-CN&user=OUXS8doAAAAJ'>. My recent research interests are Multi-modal Understanding and AIGC (AI generated content).
+Hi😊~I am currently a third-year graduate student from Gaoling School of Artificial Intelligence, Renmin University of China (RUC GSAI). I major in artificial intelligence and advised by [Prof. Zhiwu Lu](https://scholar.google.com.hk/citations?hl=zh-CN&user=OUXS8doAAAAJ). My recent research interests are Multi-modal Understanding and AIGC (AI generated content).
 
 I'll work in Ant Group as an algorithm engineer in Hangzhou, Zhejiang.
