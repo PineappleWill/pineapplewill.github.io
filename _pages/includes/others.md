@@ -4,3 +4,4 @@
 
 # 💻 Internships
 - *2022.06 - 2022.10*, ByteDance, Applied vision group.
+- *2020.12 - 2022.03*, Beijing Academy of Artificial Intelligence (BAAI).
